@@ -1,0 +1,1 @@
+$input = Get-Content -Path "$PSScriptRoot\d3_input.txt"
